@@ -1,1 +1,2 @@
-# H-zi-feladatok
+# Hazi-feladatok
+Petrov-Todorov Pál
